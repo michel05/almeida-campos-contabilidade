@@ -1,0 +1,43 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Horizontal Line"
+msgstr "Vodorovná čára"
+
+msgid "Margin"
+msgstr "Okraj"
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "Style"
+msgstr "Styl"
+
+msgid "Thickness"
+msgstr "Tloušťka"
+
+msgid ""
+"Use this widget to add a horizontal line to your page and neatly separate "
+"sections without having to use any HTML code."
+msgstr ""
+"Tímto widgetem můžete na stránku přidat vodorovnou čáru a tím stránku "
+"úhledně rozdělit do samostatných oddílů bez nutnosti použít kód HTML."

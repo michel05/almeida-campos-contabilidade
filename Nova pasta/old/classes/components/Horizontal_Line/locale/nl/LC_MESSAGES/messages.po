@@ -1,0 +1,43 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Horizontal Line"
+msgstr "Horizontale lijn"
+
+msgid "Margin"
+msgstr "Marge"
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgid "Style"
+msgstr "Stijl"
+
+msgid "Thickness"
+msgstr "Dikte"
+
+msgid ""
+"Use this widget to add a horizontal line to your page and neatly separate "
+"sections without having to use any HTML code."
+msgstr ""
+"Gebruik deze widget om een horizontale lijn toe te voegen en pagina´s te "
+"scheiden zonder gebruik van HTML-code."

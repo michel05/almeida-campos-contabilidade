@@ -1,0 +1,33 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2010.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: site builder\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+msgid "Column Divider"
+msgstr "Divisor de columnas"
+
+msgid "Margin"
+msgstr "Margen"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is "
+"a neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Utiliza el Widget Divisor de Columnas para crear columnas organizadas en tu "
+"sitio web. Esta es una buena aplicación para colocar elementos uno al lado "
+"del otro. Simplemente arrastra el widget en tu pagina, y luego suelta los "
+"demás widgets dentro del divisor de columnas. Los elementos se mostrarán uno "
+"al lado del otro automáticamente."

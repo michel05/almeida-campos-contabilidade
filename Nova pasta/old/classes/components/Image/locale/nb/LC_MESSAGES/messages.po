@@ -1,0 +1,97 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "<strong>Browse</strong> Uploaded Images"
+msgstr "<strong>Søk gjennom</strong> Opplastede bilder"
+
+msgid "<strong>Upload</strong> New Image"
+msgstr "<strong>Last opp</strong> nytt bilde"
+
+msgid "Align"
+msgstr "Juster"
+
+msgid "Alternative Text"
+msgstr "Alternativ tekst"
+
+msgid "Browse"
+msgstr "Bla igjennom"
+
+msgid "Choose A Link"
+msgstr "Velg en lenke"
+
+msgid "Clear"
+msgstr "Fjern"
+
+msgid "Double click to upload a photo"
+msgstr "Dobbeltklikk for å laste opp et bilde"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Dra og slipp denne widgeten for å legge til et enkelt bilde på nettsiden din."
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Edit With Aviary"
+msgstr "Rediger med Aviary"
+
+msgid "Image"
+msgstr "Bilde"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Margin"
+msgstr "Marg"
+
+msgid "Off"
+msgstr "Av"
+
+msgid "On"
+msgstr "På"
+
+msgid "Optimize"
+msgstr "Optimaliser"
+
+msgid "Picture"
+msgstr "Bilde"
+
+msgid "Upload"
+msgstr "Last opp"
+
+#~ msgid "<strong>Find</strong> Stock Images"
+#~ msgstr "<strong>Finn</strong> stockbilder"
+
+#~ msgid ""
+#~ "<strong>Yola Silver</strong> subscribers also gain access to over "
+#~ "<strong>3,000 free</strong> stock photos."
+#~ msgstr ""
+#~ "<strong>Yola Silver-</strong> abonnenter får også tilgang til over "
+#~ "<strong>3000 gratis</strong> stockbilder."
+
+#~ msgid ""
+#~ "For as low as <strong>US$1.05 per image</strong>, you can add beautiful, "
+#~ "professionally taken photography to your site. With over "
+#~ "<strong>11,000,000</strong> images to choose from, you are bound to "
+#~ "<a>find the perfect image</a>."
+#~ msgstr ""
+#~ "For så lite som <strong>US$ 1.05 per bilde</strong>, kan du legge vakre, "
+#~ "profesjonelt fotograferte bilder til nettstedet ditt. Med over <strong>11 "
+#~ "000 000</strong> bilder å velge mellom, kan du være trygg på at <a>du "
+#~ "finner det perfekt bildet</a>."
+
+#~ msgid "Stock images will make your site look more professional"
+#~ msgstr "Stockbilder gir nettstedet ditt et mer profesjonelt utseende"

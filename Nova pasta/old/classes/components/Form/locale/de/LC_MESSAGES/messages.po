@@ -1,0 +1,146 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: site builder\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: German "
+"<http://weblate.yola.net/projects/sitecomponents/form/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "Neues Feld <strong>hinzufügen</strong></span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Name</strong>, <strong>E-Mail</strong>, <strong>Telefon</strong> "
+"<strong></strong>und <strong>Nachricht</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr ""
+"Leere Formularvorlage, der Sie die gewünschten Felder hinzufügen können"
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Mit einem Kontaktformular auf Ihrer Website können Ihre Websitebesucher Sie "
+"einfach erreichen. Formulare enthalten automatisch eine CAPTCHA-Funktion, "
+"die vor Spam-E-Mails schützen kann."
+
+msgid "Blank Form"
+msgstr "Leeres Formular"
+
+msgid "Button label:"
+msgstr "Schaltflächenbeschriftung:"
+
+msgid "Checkboxes"
+msgstr "Kontrollkästchen"
+
+msgid "Choose from a list"
+msgstr "Auswahl aus einer Liste"
+
+msgid "Contact Us"
+msgstr "Kontakt"
+
+msgid "Edit"
+msgstr "bearbeiten"
+
+msgid "Email form submissions to:"
+msgstr "Formulareinträge per E-Mail senden an:"
+
+msgid "Enter a form completion message:"
+msgstr "Meldung nach Absendung des Formulars festlegen:"
+
+msgid "Enter the numbers you hear:"
+msgstr "Geben Sie die Zahlen ein, die Sie hören:"
+
+msgid "Enter the words above:"
+msgstr "Geben Sie die oben stehenden Wörter ein:"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Formular senden fehlgeschlagen. Bitte versuchen Sie es erneut."
+
+msgid "Get an audio CAPTCHA"
+msgstr "Audio-CAPTCHA abspielen"
+
+msgid "Get an image CAPTCHA"
+msgstr "Bild-CAPTCHA anzeigen"
+
+msgid "Get another CAPTCHA"
+msgstr "Neues CAPTCHA erzeugen"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Incorrect please try again"
+msgstr "Fehler, bitte versuchen Sie es erneut."
+
+msgid "Multi Line Text"
+msgstr "Mehrzeiliger Text"
+
+msgid "Multiple Choice"
+msgstr "Mehrfachauswahl"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to the email address you gave Yola. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Entfernen Sie Felder, indem Sie auf das <span %s>rote X</span> klicken, oder "
+"fügen Sie ein Feld hinzu, indem Sie auf die Schaltfläche \"<strong>Neues "
+"Feld hinzufügen</strong>\" klicken. Nach dem Absenden des Formulars werden "
+"die Daten an die E-Mail-Adresse weitergeleitet, die Sie bei Yola hinterlegt "
+"haben. Klicken Sie auf die Registerkarte \"<strong>Einstellungen</strong>\", "
+"wenn Sie diese Adresse ändern möchten."
+
+msgid "Select a starting form type:"
+msgstr "Wählen Sie eine Formularart aus:"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Single Line Text"
+msgstr "Einzeiliger Text"
+
+msgid "Spam Protector (Captcha)"
+msgstr "Spamschutz (Captcha)"
+
+msgid "Starting Form Fields:"
+msgstr "Formularfelder:"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Text"
+msgstr "Text"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Dies ist die Meldung, die ein Besucher Ihrer Website erhält,<br /> wenn das "
+"Formular erfolgreich abgesendet wurde."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Um ein Formular hinzuzufügen, wählen Sie als Vorlage \"<strong>Kontakt</"
+"strong>\" oder \"<strong>Leeres Formular</strong>\" aus."

@@ -1,0 +1,36 @@
+{
+  "sequence": 3,
+  "title": "Heirloom",
+  "slug": "heirloom",
+  "id": "7b3f35bd-36c5-4105-8b0b-572e98d0737d",
+  "baseTemplateId": "e03188e5-eebd-4c4f-9423-2362c255a08e",
+  "description": [
+    "_('A down-to-earth template, Heirloom has a clean and polished look that’s great for businesses, organizations and non-profits. The template offers a horizontal navigation with a banner and three-column layout.')"
+  ],
+  "meta_description": "_('Heirloom is a perfect website template for small businesses. Build a website for free with Yola using the Heirloom website template. Start building your website today.')",
+  "thumbnails" : {
+    "100x100": "/template_resources/0/SuperFlat_v2/templates/heirloom/heirloom_100x100.jpg",
+    "300x300": "/template_resources/0/SuperFlat_v2/templates/heirloom/heirloom_300x300.jpg",
+    "330x210": "/template_resources/0/SuperFlat_v2/templates/heirloom/heirloom_330x210.jpg",
+    "660x460": "/template_resources/0/SuperFlat_v2/templates/heirloom/heirloom_660x460.jpg"
+  },
+  "features": [],
+  "style":"superflat_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "http://www.growerfieldsfarm.com/",
+  "sitedata": "/template_resources/0/SuperFlat_v2/templates/heirloom/site.json",
+  "pages": {
+    "index": {
+      "slug": "index",
+      "pagedata": "/template_resources/0/SuperFlat_v2/templates/heirloom/pages/index/page.json"
+    },
+    "where-to-buy": {
+      "slug": "where-to-buy",
+      "pagedata": "/template_resources/0/SuperFlat_v2/templates/heirloom/pages/where-to-buy/page.json"
+    },
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/template_resources/0/SuperFlat_v2/templates/heirloom/pages/blank/page.json"
+    }
+  }
+}

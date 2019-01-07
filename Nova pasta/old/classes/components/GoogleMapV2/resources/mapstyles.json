@@ -1,0 +1,984 @@
+{
+  "normal": {
+    "display_name": "Normal",
+    "author": "Yola",
+    "attribution": "",
+    "license": "",
+    "description": "Default Google map style",
+    "styles": [
+      {
+        "featureType": "all",
+        "stylers": [
+          {
+            "saturation": 0
+          }
+        ]
+      }
+    ]
+  },
+  "grayscale": {
+    "display_name": "Grayscale",
+    "author": "Google Inc",
+    "attribution": "http://maps-api-tt.appspot.com/apilite/styled/styled.html",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "Example provided by Google showcasing their style API. A really cool greyscale colour scheme that looks great when zoomed in.",
+    "styles": [
+      {
+        "featureType": "all",
+        "stylers": [
+          {
+            "saturation": -100
+          }
+        ]
+      }
+    ]
+  },
+  "subtle_grayscale": {
+    "display_name": "Subtle Grayscale",
+    "author": "Paulo Ávila",
+    "attribution": "https://github.com/demoive/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "A nice, simple grayscale version of the map with color extremes that are never too harsh on the eyes. Originally created for http://barvinssurvins.fr/situer.",
+    "styles": [
+      {
+        "featureType": "landscape",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 65
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 51
+          },
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 30
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 40
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "transit",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.province",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "on"
+          },
+          {
+            "lightness": -25
+          },
+          {
+            "saturation": -100
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "hue": "#ffff00"
+          },
+          {
+            "lightness": -25
+          },
+          {
+            "saturation": -97
+          }
+        ]
+      }
+    ]
+  },
+  "paledawn": {
+    "display_name": "Pale Dawn",
+    "author": "Adam Krogh",
+    "attribution": "http://atmist.com/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "Inspired by CloudMade's style of the same name. Use of subdued colours results in an excellent style for sites with a pastel colour scheme.",
+    "styles": [
+      {
+        "featureType": "water",
+        "stylers": [
+          {
+            "visibility": "on"
+          },
+          {
+            "color": "#acbcc9"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape",
+        "stylers": [
+          {
+            "color": "#f2e5d4"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#c5c6c6"
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#e4d7c6"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#fbfaf7"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.park",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#c5dac6"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative",
+        "stylers": [
+          {
+            "visibility": "on"
+          },
+          {
+            "lightness": 33
+          }
+        ]
+      },
+      {
+        "featureType": "road"
+      },
+      {
+        "featureType": "poi.park",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "on"
+          },
+          {
+            "lightness": 20
+          }
+        ]
+      },
+      {},
+      {
+        "featureType": "road",
+        "stylers": [
+          {
+            "lightness": 20
+          }
+        ]
+      }
+    ]
+  },
+  "shift_worker": {
+    "display_name": "Shift Worker",
+    "author": "The Factory",
+    "attribution": "http://workthefactory.com/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "Almost grey scale, this style uses subdued tones to display streets with a minimum of distractions. Best used around zoom level 16 to show a local address.",
+    "styles": [
+      {
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "gamma": 1
+          }
+        ]
+      },
+      {
+        "elementType": "labels.text.stroke",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.business",
+        "elementType": "labels.text",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.business",
+        "elementType": "labels.icon",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.place_of_worship",
+        "elementType": "labels.text",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.place_of_worship",
+        "elementType": "labels.icon",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "stylers": [
+          {
+            "visibility": "on"
+          },
+          {
+            "saturation": 50
+          },
+          {
+            "gamma": 0
+          },
+          {
+            "hue": "#50a5d1"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.neighborhood",
+        "elementType": "labels.text.fill",
+        "stylers": [
+          {
+            "color": "#333333"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "elementType": "labels.text",
+        "stylers": [
+          {
+            "weight": 0.5
+          },
+          {
+            "color": "#333333"
+          }
+        ]
+      },
+      {
+        "featureType": "transit.station",
+        "elementType": "labels.icon",
+        "stylers": [
+          {
+            "gamma": 1
+          },
+          {
+            "saturation": 50
+          }
+        ]
+      }
+    ]
+  },
+  "apple_maps_esque": {
+    "display_name": "Apple Maps-esque",
+    "author": "Mike Fowler",
+    "attribution": "http://mikefowler.me/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "A theme that largely resembles the Apple Maps theme, albeit somewhat flatter.",
+    "styles": [
+      {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#a2daf2"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape.man_made",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#f7f1df"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape.natural",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#d0e3b4"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape.natural.terrain",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.park",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#bde6ab"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.medical",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#fbd3da"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.business",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "geometry.stroke",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "geometry.fill",
+        "stylers": [
+          {
+            "color": "#ffe15f"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "geometry.stroke",
+        "stylers": [
+          {
+            "color": "#efd151"
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "geometry.fill",
+        "stylers": [
+          {
+            "color": "#ffffff"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "elementType": "geometry.fill",
+        "stylers": [
+          {
+            "color": "black"
+          }
+        ]
+      },
+      {
+        "featureType": "transit.station.airport",
+        "elementType": "geometry.fill",
+        "stylers": [
+          {
+            "color": "#cfb2db"
+          }
+        ]
+      }
+    ]
+  },
+  "shade_of_green": {
+    "display_name": "Shade of Green",
+    "author": "Kevin Lofthouse",
+    "attribution": "http://www.lofthou.se/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "A subtle twist on the default map style with roads and parks highlighted green.",
+    "styles": [
+      {
+        "featureType": "water",
+        "elementType": "all",
+        "stylers": [
+          {
+            "hue": "#76aee3"
+          },
+          {
+            "saturation": 38
+          },
+          {
+            "lightness": -11
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "all",
+        "stylers": [
+          {
+            "hue": "#8dc749"
+          },
+          {
+            "saturation": -47
+          },
+          {
+            "lightness": -17
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.park",
+        "elementType": "all",
+        "stylers": [
+          {
+            "hue": "#c6e3a4"
+          },
+          {
+            "saturation": 17
+          },
+          {
+            "lightness": -2
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "all",
+        "stylers": [
+          {
+            "hue": "#cccccc"
+          },
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 13
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.land_parcel",
+        "elementType": "all",
+        "stylers": [
+          {
+            "hue": "#5f5855"
+          },
+          {
+            "saturation": 6
+          },
+          {
+            "lightness": -31
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "elementType": "all",
+        "stylers": [
+          {
+            "hue": "#ffffff"
+          },
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 100
+          },
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "all",
+        "stylers": []
+      }
+    ]
+  },
+  "blue_water": {
+    "display_name": "Blue Water",
+    "author": "Xavier",
+    "attribution": "http://www.xavierfoucrier.fr/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "A simple map with blue water and roads/landscape in grayscale.",
+    "styles": [
+      {
+        "featureType": "water",
+        "stylers": [
+          {
+            "color": "#46bcec"
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape",
+        "stylers": [
+          {
+            "color": "#f2f2f2"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 45
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "stylers": [
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "labels.icon",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative",
+        "elementType": "labels.text.fill",
+        "stylers": [
+          {
+            "color": "#444444"
+          }
+        ]
+      },
+      {
+        "featureType": "transit",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      }
+    ]
+  },
+  "bright_and_bubbly": {
+    "display_name": "Bright & Bubbly",
+    "author": "Paulo Ávila",
+    "attribution": "https://github.com/demoive/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "A fun and lively color scheme to match a company's new brand. Very bright colors for the bodies of water to make them stand out - particularly good for lakes and rivers when zoomed into the city detail level. Many 'Points of Interest' are hidden in order to not clutter the map since custom landmarks and markers are used to highlight the company's own items.",
+    "styles": [
+      {
+        "featureType": "water",
+        "stylers": [
+          {
+            "color": "#19a0d8"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+          {
+            "color": "#ffffff"
+          },
+          {
+            "weight": 6
+          }
+        ]
+      },
+      {
+        "featureType": "administrative",
+        "elementType": "labels.text.fill",
+        "stylers": [
+          {
+            "color": "#e85113"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "geometry.stroke",
+        "stylers": [
+          {
+            "color": "#efe9e4"
+          },
+          {
+            "lightness": -40
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "geometry.stroke",
+        "stylers": [
+          {
+            "color": "#efe9e4"
+          },
+          {
+            "lightness": -20
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+          {
+            "lightness": 100
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "labels.text.fill",
+        "stylers": [
+          {
+            "lightness": -100
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "labels.icon"
+      },
+      {
+        "featureType": "landscape",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape",
+        "stylers": [
+          {
+            "lightness": 20
+          },
+          {
+            "color": "#efe9e4"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape.man_made",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+          {
+            "lightness": 100
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "labels.text.fill",
+        "stylers": [
+          {
+            "lightness": -100
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "labels.text.fill",
+        "stylers": [
+          {
+            "hue": "#11ff00"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+          {
+            "lightness": 100
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "labels.icon",
+        "stylers": [
+          {
+            "hue": "#4cff00"
+          },
+          {
+            "saturation": 58
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "visibility": "on"
+          },
+          {
+            "color": "#f0e4d3"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "geometry.fill",
+        "stylers": [
+          {
+            "color": "#efe9e4"
+          },
+          {
+            "lightness": -25
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "geometry.fill",
+        "stylers": [
+          {
+            "color": "#efe9e4"
+          },
+          {
+            "lightness": -10
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "simplified"
+          }
+        ]
+      }
+    ]
+  },
+  "clean_cut": {
+    "display_name": "Clean Cut",
+    "author": "Scott Marshall",
+    "attribution": "http://marshall-design.com/",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "A clean and simple style for customizing your Google maps.",
+    "styles": [
+    {
+        "featureType": "road",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "lightness": 100
+            },
+            {
+                "visibility": "simplified"
+            }
+        ]
+    },
+    {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#C6E2FF"
+            }
+        ]
+    },
+    {
+        "featureType": "poi",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#C5E3BF"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#D1D1B8"
+            }
+        ]
+    }
+]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "sequence": 5,
+  "title": "Danube",
+  "slug": "danube",
+  "id": "d48d3d27-9f85-4a94-afdb-d62f50a87d15",
+  "baseTemplateId": "e03188e5-eebd-4c4f-9423-2362c255a08e",
+  "description": [
+    "_('Create a website that tells your story in a dynamic and beautiful way. Danube displays a clean layout perfect for businesses who want a modern and professional look. This template is best for highlighting professional services and picture galleries.')"
+  ],
+  "meta_description": "_('Create a website with the Danube website template. Yola is a free website builder that is easy to use. Choose a free website template and build your own website.')",
+  "thumbnails" : {
+    "100x100": "/template_resources/0/SuperFlat_v2/templates/danube/danube_100x100.jpg",
+    "300x300": "/template_resources/0/SuperFlat_v2/templates/danube/danube_300x300.jpg",
+    "330x210": "/template_resources/0/SuperFlat_v2/templates/danube/danube_330x210.jpg",
+    "660x460": "/template_resources/0/SuperFlat_v2/templates/danube/danube_660x460.jpg"
+  },
+  "features": [],
+  "style":"superflat_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "http://www.pooolbright.com/",
+  "sitedata": "/template_resources/0/SuperFlat_v2/templates/danube/site.json",
+  "pages": {
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/template_resources/0/SuperFlat_v2/templates/danube/pages/blank/page.json"
+    },
+    "contact": {
+      "slug": "contact",
+      "pagedata": "/template_resources/0/SuperFlat_v2/templates/danube/pages/contact/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/template_resources/0/SuperFlat_v2/templates/danube/pages/index/page.json"
+    }
+  }
+}

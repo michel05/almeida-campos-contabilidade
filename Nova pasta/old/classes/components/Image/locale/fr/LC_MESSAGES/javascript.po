@@ -1,0 +1,78 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2010.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: SiteBuilder API/JSP's 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: French <http://weblate.yola.net/projects/sitecomponents"
+"/image-js/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "Choose A Link"
+msgstr "Choisir un lien"
+
+msgid "Image Files"
+msgstr "Fichiers Images"
+
+msgid "Saving..."
+msgstr "Enregistrement..."
+
+msgid "Select an image"
+msgstr "Sélectionnez une image"
+
+#~ msgid "%s maximum single file size exceeded."
+#~ msgstr "Taille maximale de fichier unique dépassée (%s)."
+
+#~ msgid "Error uploading file"
+#~ msgstr "Erreur de chargement de fichier"
+
+#~ msgid "File extension is restricted."
+#~ msgstr "L'extension de fichier est limitée."
+
+#~ msgid "Illegal characters in filename."
+#~ msgstr "Caractères illégaux dans nom de fichier."
+
+#~ msgid "Invalid characters in file name."
+#~ msgstr "Caractères non valides dans nom de fichier."
+
+#~ msgid "Picture Files"
+#~ msgstr "Fichiers image"
+
+#~ msgid "Storage quota was of %sMB was exceeded."
+#~ msgstr "Le quota de stockage de %s Mo a été dépassé."
+
+#~ msgid "The file you selected has an unsupported extension."
+#~ msgstr ""
+#~ "Le fichier que vous avez sélectionné a une extension non prise en charge."
+
+#~ msgid "The following file will be overwritten."
+#~ msgstr "Le fichier suivant sera remplacé."
+
+#~ msgid "The following files will be overwritten."
+#~ msgstr "Les fichiers suivants seront remplacés."
+
+#~ msgid "Upload complete"
+#~ msgstr "Chargement terminé"
+
+#~ msgid "Upload failed."
+#~ msgstr "Échec du chargement."
+
+#~ msgid "Uploading picture..."
+#~ msgstr "Chargement de votre image..."
+
+#~ msgid "Uploading your picture"
+#~ msgstr "Chargement de votre image"
+
+#~ msgid "Uploading your picture..."
+#~ msgstr "Chargement de votre image..."
+
+#~ msgid "Would you like to continue?"
+#~ msgstr "Souhaitez-vous continuer ?"

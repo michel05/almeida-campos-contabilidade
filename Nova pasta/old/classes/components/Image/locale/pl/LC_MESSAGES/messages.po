@@ -1,0 +1,99 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "<strong>Browse</strong> Uploaded Images"
+msgstr "<strong>Przeglądaj</strong> przesłane obrazy"
+
+msgid "<strong>Upload</strong> New Image"
+msgstr "<strong>Prześlij</strong> nowy obraz"
+
+msgid "Align"
+msgstr "Wyrównaj"
+
+msgid "Alternative Text"
+msgstr "Tekst zastępczy"
+
+msgid "Browse"
+msgstr "Przeglądaj"
+
+msgid "Choose A Link"
+msgstr "Wybierz link"
+
+msgid "Clear"
+msgstr "Wyczyść"
+
+msgid "Double click to upload a photo"
+msgstr "Kliknij dwukrotnie aby przesłać zdjęcie"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Przeciągnij i upuść ten widget, by dodać pojedyncze zdjęcie na swojej "
+"stronie."
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Edit With Aviary"
+msgstr "Edytuj w Aviary"
+
+msgid "Image"
+msgstr "Obraz"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Margin"
+msgstr "Margines"
+
+msgid "Off"
+msgstr "Wyłącz"
+
+msgid "On"
+msgstr "Włącz"
+
+msgid "Optimize"
+msgstr "Optymalizuj"
+
+msgid "Picture"
+msgstr "Obraz"
+
+msgid "Upload"
+msgstr "Prześlij"
+
+#~ msgid "<strong>Find</strong> Stock Images"
+#~ msgstr "<strong>Znajdź</strong> obrazy stockowe"
+
+#~ msgid ""
+#~ "<strong>Yola Silver</strong> subscribers also gain access to over "
+#~ "<strong>3,000 free</strong> stock photos."
+#~ msgstr ""
+#~ "W <strong>Yola Silver</strong> subskrybenci mają do dyspozycji ponad "
+#~ "<strong>3000 darmowych</strong> zdjęć stockowych."
+
+#~ msgid ""
+#~ "For as low as <strong>US$1.05 per image</strong>, you can add beautiful, "
+#~ "professionally taken photography to your site. With over "
+#~ "<strong>11,000,000</strong> images to choose from, you are bound to "
+#~ "<a>find the perfect image</a>."
+#~ msgstr ""
+#~ "Za jedyne <strong>1.05 $ za zdjęcie</strong> możesz ozdobić Twoją stronę "
+#~ "pięknymi, profesjonalnymi fotografiami. Wybierając spośród <strong>ponad "
+#~ "11 mln</strong> dostępnych zdjęć z pewnością <a>znajdziesz właściwą "
+#~ "fotografię</a>."
+
+#~ msgid "Stock images will make your site look more professional"
+#~ msgstr ""
+#~ "Stockowe zdjęcia nadadzą Twojej stronie bardziej profesjonalny wygląd"

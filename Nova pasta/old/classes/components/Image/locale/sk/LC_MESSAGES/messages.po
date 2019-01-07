@@ -1,0 +1,99 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: Slovak "
+"<http://weblate.yola.net/projects/sitecomponents/image/sk/>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "<strong>Browse</strong> Uploaded Images"
+msgstr "<strong>Prezerať</strong> odovzdané obrázky"
+
+msgid "<strong>Upload</strong> New Image"
+msgstr "<strong>Odovzdať</strong> nový obrázok"
+
+msgid "Align"
+msgstr "Zarovnať"
+
+msgid "Alternative Text"
+msgstr "Alternatívny text"
+
+msgid "Browse"
+msgstr "Prezerať"
+
+msgid "Choose A Link"
+msgstr "Vybrať odkaz"
+
+msgid "Clear"
+msgstr "Zmazať"
+
+msgid "Double click to upload a photo"
+msgstr "Dvojklikom odovzdajte fotografiu"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Presuňte túto miniaplikáciu na svoju stránku, ak chcete na stránku pridať "
+"jednotlivý obrázok."
+
+msgid "Edit"
+msgstr "Editovať"
+
+msgid "Edit With Aviary"
+msgstr "Editovať v aplikácii Aviary"
+
+msgid "Image"
+msgstr "Obrázok"
+
+msgid "Link"
+msgstr "Odkaz"
+
+msgid "Margin"
+msgstr "Okraj"
+
+msgid "Off"
+msgstr "Vypnúť"
+
+msgid "On"
+msgstr "Zapnúť"
+
+msgid "Optimize"
+msgstr "Optimalizovať"
+
+msgid "Picture"
+msgstr "Obrázok"
+
+msgid "Upload"
+msgstr "Odovzdať"
+
+#~ msgid "<strong>Find</strong> Stock Images"
+#~ msgstr "<strong>Prehľadávať</strong> komerčné obrázky"
+
+#~ msgid ""
+#~ "<strong>Yola Silver</strong> subscribers also gain access to over "
+#~ "<strong>3,000 free</strong> stock photos."
+#~ msgstr ""
+#~ "Predplatitelia služby <strong>Yola Silver</strong> získajú aj prístup k "
+#~ "vyše <strong>3 000 komerčným obrázkom zadarmo</strong>."
+
+#~ msgid ""
+#~ "For as low as <strong>US$1.05 per image</strong>, you can add beautiful, "
+#~ "professionally taken photography to your site. With over "
+#~ "<strong>11,000,000</strong> images to choose from, you are bound to "
+#~ "<a>find the perfect image</a>."
+#~ msgstr ""
+#~ "Už za <strong>1,05 USD za obrázok</strong> môžete na svoju stránku "
+#~ "pridávať nádherné profesionálne fotografie. Pri výbere z vyše <strong>11 "
+#~ "000 000</strong> obrázkov jednoducho musíte <a>nájsť ideálny obrázok</a>."
+
+#~ msgid "Stock images will make your site look more professional"
+#~ msgstr "Komerčné obrázky dodajú vašej stránke profesionálnejší vzhľad"

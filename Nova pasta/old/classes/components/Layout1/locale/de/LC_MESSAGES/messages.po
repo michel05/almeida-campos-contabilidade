@@ -1,0 +1,34 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2010.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: site builder\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: German "
+"<http://weblate.yola.net/projects/sitebuilder/layout1/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "Column Divider"
+msgstr "Spaltenteiler"
+
+msgid "Margin"
+msgstr "Außenabstand"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is "
+"a neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Nutzen Sie das Spaltenteiler-Widget, um Ihre Website in Spalten einzuteilen. "
+"So können Sie Elemente akkurat nebeneinander anordnen. Ziehen Sie das Widget "
+"einfach auf Ihre Seite und setzen Sie Ihre anderen Widgets in die Spalten. "
+"Die Widgets werden jetzt automatisch nebeneinander angezeigt."

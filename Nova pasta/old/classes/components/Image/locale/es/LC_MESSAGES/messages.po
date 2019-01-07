@@ -1,0 +1,119 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: site builder\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: Spanish <http://weblate.yola.net/projects/sitecomponents/"
+"image/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "<strong>Browse</strong> Uploaded Images"
+msgstr "<strong>Explorar</strong> imágenes cargadas"
+
+msgid "<strong>Upload</strong> New Image"
+msgstr "<strong>Cargar</strong> Imagen Nueva"
+
+msgid "Align"
+msgstr "Alinear"
+
+msgid "Alternative Text"
+msgstr "Texto alternativo"
+
+msgid "Browse"
+msgstr "Explorar"
+
+msgid "Choose A Link"
+msgstr "Elige un enlace"
+
+msgid "Clear"
+msgstr "Borrar"
+
+msgid "Double click to upload a photo"
+msgstr "Haga doble clic para cargar una foto"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr "Arrastra y suelta este widget en tu pagina para agregar una sola foto."
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit With Aviary"
+msgstr "Editar con Aviary"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Link"
+msgstr "Enlace"
+
+msgid "Margin"
+msgstr "Margen"
+
+msgid "Off"
+msgstr "Desactivado"
+
+msgid "On"
+msgstr "Activado"
+
+msgid "Optimize"
+msgstr "Optimizar"
+
+msgid "Picture"
+msgstr "Imagen"
+
+msgid "Upload"
+msgstr "Cargar"
+
+#~ msgid "<a %s>Click here</a> to receive 3 Free Fotolia credits."
+#~ msgstr ""
+#~ "<a %s>Haga clic aquí</a> para recibir 3 créditos de Fotolia gratuitos."
+
+#~ msgid "<strong>Find</strong> Stock Images"
+#~ msgstr "<strong>Encontrar</strong> Imágenes de inventario"
+
+#~ msgid ""
+#~ "<strong>Yola Silver</strong> subscribers also gain access to over "
+#~ "<strong>3,000 free</strong> stock photos."
+#~ msgstr ""
+#~ "Los suscriptores de <strong>Yola Silver</strong> también obtienen acceso "
+#~ "a mas de <strong>3,000 imágenes gratuitas</strong> de inventario."
+
+#~ msgid "Browse File Manager"
+#~ msgstr "Explore el administrador de archivos"
+
+#~ msgid ""
+#~ "For as low as <strong>US$1.05 per image</strong>, you can add beautiful, "
+#~ "professionally taken photography to your site. With over "
+#~ "<strong>11,000,000</strong> images to choose from, you are bound to "
+#~ "<a>find the perfect image</a>."
+#~ msgstr ""
+#~ "Tu puedes agregar en tu sitio fotografías hermosas y profesionales por "
+#~ "tan solo <strong>$1.05 USD por imagen</strong>. Con mas de "
+#~ "strong>11,000,000</strong> de imágenes para eligir, seguro que encuentras "
+#~ "<a>la imagen perfecta</a>."
+
+#~ msgid "Just sign up. No credit card necessary."
+#~ msgstr "Sólo tiene que registrarse. No se necesita tarjeta de crédito."
+
+#~ msgid "Looking for Professional Images for Your Yola Website?"
+#~ msgstr "¿Está buscando imágenes profesionales para su sitio web de Yola?"
+
+#~ msgid "Search..."
+#~ msgstr "Búsqueda..."
+
+#~ msgid "Stock images will make your site look more professional"
+#~ msgstr ""
+#~ "Las imágenes en inventario harán que tu sitio tenga una apariencia mas "
+#~ "profesional"
+
+#~ msgid "Upload A Picture"
+#~ msgstr "Cargue una imagen"
