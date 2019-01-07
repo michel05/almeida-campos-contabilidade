@@ -1,0 +1,144 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: Dutch "
+"<http://weblate.yola.net/projects/sitecomponents/form/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Nieuw veld</strong> toevoegen</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Naam</strong>, <strong>Email</strong>, <strong>Telefoon</strong>, "
+"<strong></strong> en een <strong>Boodschap</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "Een leeg formulier waaraan je diverse velden kunt toevoegen."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Voeg een contactformulier toe aan uw website. Zo kunnen uw bezoekers u "
+"eenvoudig vinden. Alle formulieren bevatten een CAPTCHA beveiliging, om spam "
+"e-mails te voorkomen."
+
+msgid "Blank Form"
+msgstr "Leeg formulier"
+
+msgid "Button label:"
+msgstr "Knop naam:"
+
+msgid "Checkboxes"
+msgstr "Selectieboxen"
+
+msgid "Choose from a list"
+msgstr "Kies van een lijst"
+
+msgid "Contact Us"
+msgstr "Contact"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Email form submissions to:"
+msgstr "Email formulier is verzonden naar:"
+
+msgid "Enter a form completion message:"
+msgstr "Vul een “formulier invullen” bericht in:"
+
+msgid "Enter the numbers you hear:"
+msgstr "Voer de nummers in die u hoort:"
+
+msgid "Enter the words above:"
+msgstr "Voer de bovenstaande woorden in:"
+
+msgid "Form"
+msgstr "Formulier"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Formulier Post is mislukt. Probeer het opnieuw."
+
+msgid "Get an audio CAPTCHA"
+msgstr "Verkrijg een audio CAPTCHA"
+
+msgid "Get an image CAPTCHA"
+msgstr "Verkrijg een afbeelding CAPTCHA"
+
+msgid "Get another CAPTCHA"
+msgstr "Verkrijg een andere CAPTCHA"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Incorrect please try again"
+msgstr "Formulier Post is mislukt. Probeer het opnieuw."
+
+msgid "Multi Line Text"
+msgstr "Meerdere tekstlijnen"
+
+msgid "Multiple Choice"
+msgstr "Meerdere Keuze's"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to the email address you gave Yola. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Verwijder de velden door op het <span %s>rode X</span> te klikken of voeg "
+"nieuwe velden toe door op de “<strong.Voeg Nieuw veld toe,<strong>” knop te "
+"drukken. Formulierverzendingen worden naar uw bij Yola geregistreerde e-"
+"mailadres verzonden. Klik op de “<strong>Instellingen</strong>” tabblad om "
+"dit adres te wijzigen."
+
+msgid "Select a starting form type:"
+msgstr "Selecteer een startformulier:"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Single Line Text"
+msgstr "Één Tekstlijn"
+
+msgid "Spam Protector (Captcha)"
+msgstr "Spam beveiliging (Captcha)"
+
+msgid "Starting Form Fields:"
+msgstr "Startvelden:"
+
+msgid "Submit"
+msgstr "Toevoegen"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Dit is het bericht dat uw webbezoeker zal zien na<br /> het invullen van het "
+"web formulier."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Om een formulier toe te voegen, kies “<strong>Contact</strong>” of "
+"“<strong>Leeg Formulier</strong>”."

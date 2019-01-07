@@ -1,0 +1,16 @@
+{
+  "description": "_('Add a block of text to your page. You can format text, add pictures, create links and more.')",
+  "displayName": "_('Text')",
+  "hasCSS": false,
+  "hasDynamicCSS": false,
+  "icon": "icon-textwidget",
+  "id": "100",
+  "isHidden": false,
+  "name": "Text_2",
+  "properties": {
+    "margin": null,
+    "padding": null,
+    "text": "<p class=\"yola-empty-text-widget-paragraph-unique-class\">Click here to start typing your text<\/p>"
+  },
+  "sequence": 10
+}

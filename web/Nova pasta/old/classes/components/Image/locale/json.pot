@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+
+msgid "Picture"
+msgstr ""

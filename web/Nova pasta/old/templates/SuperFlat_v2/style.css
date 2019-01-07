@@ -1,0 +1,264 @@
+/*
+    Some Style Themes enhanced with background textures provided by http://subtlepatterns.com/
+*/
+.yola_bg_overlay{
+    display:table;
+    position:absolute;
+    min-height: 100%;
+    min-width: 100%;
+    width:100%;
+    height:100%;
+    <% BACKGROUND_COLOR property='body.background-color' %>
+    <% IFPROPERTY format='background-image: url(%s);' name='body.background-image' anticache='true' urlencode='true' %>
+    <% IFPROPERTY format='background-repeat: %s;' name='body.background-repeat' %>
+    <% IFPROPERTY format='background-attachment: %s;' name='body.background-attachment' %>
+    <% IFPROPERTY format='background-position: %s;' name='body.background-position' %>
+    <% IFPROPERTY format='background-size: %s;' name='body.background-size' %>
+    <% IFPROPERTY format='-webkit-background-size: %s;' name='body.background-size' %>
+    <% IFPROPERTY format='-moz-background-size: %s;' name='body.background-size' %>
+    <% IFPROPERTY format='-o-background-size: %s;' name='body.background-size' %>
+}
+.yola_outer_content_wrapper {
+    <% IFPROPERTY format='padding-top: %s;' name='body.padding-top' %>
+    <% IFPROPERTY format='padding-right: %s;' name='body.padding-right' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='body.padding-bottom' %>
+    <% IFPROPERTY format='padding-left: %s;' name='body.padding-left' %>
+}
+.yola_inner_bg_overlay {
+    display: table-cell;
+    width:100%;
+    height:100%;
+    <% BACKGROUND_COLOR property='body.foreground-color' %>
+    <% IFPROPERTY format='vertical-align: %s;' name='page.vertical-align' %>
+}
+
+.yola_banner_wrap {
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+.yola_outer_heading_wrap {
+	text-align: center;
+    margin: 0 auto;
+    display: table;
+	width:100%;
+    text-align: center;
+    background-attachment: scroll;
+    <% BACKGROUND_COLOR property='banner.background-color' %>
+    <% IFPROPERTY format='max-width: %s;' name='banner.max-width' %>
+    <% IFPROPERTY format='background-position: %s;' name='banner.background-position'%>
+    <% IFPROPERTY format='background-size: %s;' name='banner.background-size'%>
+    <% IFPROPERTY format='background-repeat: %s;' name='banner.background-repeat'%>
+    <% IFPROPERTY format='background-image: url(%s);' name='banner.src' anticache='true' urlencode='true' %>
+}
+
+.yola_inner_heading_wrap {
+	display: table-cell;
+	vertical-align: middle;
+	margin: 0 auto;
+	text-align: center;
+    <% BACKGROUND_COLOR property='header.background-color' %>
+}
+
+.yola_innermost_heading_wrap {
+    margin: 0 auto;
+	<% IFPROPERTY format='max-width: %s;' name='banner.content.max-width' %>
+    <% IFPROPERTY format='padding-top:%s;' name='banner.padding-top' %>
+    <% IFPROPERTY format='padding-right:%s;' name='banner.padding-right' %>
+    <% IFPROPERTY format='padding-bottom:%s;' name='banner.padding-bottom' %>
+    <% IFPROPERTY format='padding-left:%s;' name='banner.padding-left' %>
+}
+
+.yola_banner_wrap nav {
+    margin: 0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='banner.max-width' %>
+    <% IFPROPERTY format='padding-top:%s;' name='nav.padding-top' %>
+    <% IFPROPERTY format='padding-right:%s;' name='nav.padding-right' %>
+    <% IFPROPERTY format='padding-bottom:%s;' name='nav.padding-bottom' %>
+    <% IFPROPERTY format='padding-left:%s;' name='nav.padding-left' %>
+    <% BACKGROUND_COLOR property='nav.background-color' %>
+}
+
+.yola_inner_nav_wrap {
+	margin: 0 auto;
+	<% IFPROPERTY format='max-width: %s;' name='banner.content.max-width' %>
+}
+
+.yola_banner_wrap nav ul.sys_navigation {
+    <% IFPROPERTY format='text-align: %s;' name='nav.text-align' %>
+}
+
+.yola_banner_wrap h1 {
+    <% IFPROPERTY format='text-align: %s;' name='h1.text-align' %>
+    margin:0;
+}
+
+.yola_site_tagline {
+    margin:0;
+    <% IFPROPERTY format='font-family: %s;' name='site.tagline.font-family'%>
+    <% IFPROPERTY format='font-weight: %s;' name='site.tagline.font-weight'%>
+    <% IFPROPERTY format='font-size: %s;' name='site.tagline.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='site.tagline.color'%>
+    <% IFPROPERTY format='text-decoration: %s;' name='site.tagline.text-decoration'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='site.tagline.letter-spacing'%>
+    <% IFPROPERTY format='line-height: %s;' name='site.tagline.line-height'%>
+    <% IFPROPERTY format='text-transform: %s;' name='site.tagline.text-transform'%>
+    <% IFPROPERTY format='text-align: %s;' name='site.tagline.text-align' %>
+}
+
+.yola_site_tagline span {
+    display: inline-block;
+    margin: <% PROPERTY name='site.tagline.margin-top' %> 0 0 0;
+    <% IFPROPERTY format='padding-top:%s;' name='site.tagline.padding-top' %>
+    <% IFPROPERTY format='padding-right:%s;' name='site.tagline.padding-right' %>
+    <% IFPROPERTY format='padding-bottom:%s;' name='site.tagline.padding-bottom' %>
+    <% IFPROPERTY format='padding-left:%s;' name='site.tagline.padding-left' %>
+    <% BACKGROUND_COLOR property='site.tagline.background-color' %>
+}
+
+ul.sys_navigation {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul.sys_navigation li {
+    display: inline;
+    list-style-type: none;
+    margin:0 <% PROPERTY name='nav.spacing' %> 0 0;
+}
+
+.yola_inner_nav_wrap ul.sys_navigation li:last-child {
+    margin:0;
+}
+
+.yola_content_wrap {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.max-width' %>
+    <% BACKGROUND_COLOR property='content.background-color' %>
+}
+
+.yola_content_column {
+	margin:0 auto;
+    min-height:200px;
+    <% IFPROPERTY format='max-width: %s;' name='content.content.max-width' %>
+}
+
+.yola_inner_content_column {
+    <% IFPROPERTY format='padding-top:%s;' name='content.padding-top' %>
+    <% IFPROPERTY format='padding-right:%s;' name='content.padding-right' %>
+    <% IFPROPERTY format='padding-bottom:%s;' name='content.padding-bottom' %>
+    <% IFPROPERTY format='padding-left:%s;' name='content.padding-left' %>
+}
+
+.yola_inner_footer_wrap {
+    padding: 0 20px;
+}
+
+div[id*='sys_region_'] {
+    padding-left: 0 ! important;
+    padding-right: 0 ! important;
+}
+
+.yola_site_logo {
+    <% IFPROPERTY format='width: %s;' name='site.logo.width' %>
+}
+
+#sys_heading.yola_hide_logo img {
+    display:none;
+}
+#sys_heading.yola_hide_logo span {
+    display:inline;
+}
+
+#sys_heading.yola_show_logo img {
+    display:inline;
+}
+a#sys_heading.yola_show_logo {
+    font-size:14px;
+}
+#sys_heading.yola_show_logo span {
+    display:none;
+}
+
+.yola_footer_wrap {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.max-width' %>
+}
+
+.yola_footer_column {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.content.max-width' %>
+    <% IFPROPERTY format='display: %s;' name='footer.display' %>
+}
+
+footer {
+    <% IFPROPERTY format='padding-top: %s;' name='footer.padding-top' %>
+    <% IFPROPERTY format='padding-right: %s;' name='footer.padding-right' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='footer.padding-bottom' %>
+    <% IFPROPERTY format='padding-left: %s;' name='footer.padding-left' %>
+    <% IFPROPERTY format='font-family: %s;' name='footer.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='footer.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='footer.color'%>
+    <% IFPROPERTY format='line-height: %s;' name='footer.line-height'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='footer.letter-spacing'%>
+    <% IFPROPERTY format='text-transform: %s;' name='footer.text-transform'%>
+    <% BACKGROUND_COLOR property='footer.background-color' %>
+}
+
+span.yola_footer_socialbuttons{
+    display:inline-block;
+    line-height:0;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    position:static;
+    float:left;
+    width:146px;
+    height:20px;
+    <% IFPROPERTY format='display: %s;' name='footer.socialbuttons.display'%>
+}
+
+.sys_yola_form .submit, .sys_yola_form input.text, .sys_yola_form textarea {
+    <% IFPROPERTY format='font-family: %s;' name='p.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='p.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='p.color'%>
+    <% IFPROPERTY format='line-height: %s;' name='p.line-height'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='p.letter-spacing'%>
+    <% IFPROPERTY format='text-transform: %s;' name='p.text-transform'%>
+}
+
+div.sys_yola_form {
+    padding:0 !important;
+}
+
+div.sys_yola_form form{
+    margin:0 !important;
+    padding:0 !important;
+}
+
+.sys_layout h2, .sys_txt h2, .sys_layout h3, .sys_txt h3, .sys_layout h4, .sys_txt h4, .sys_layout h5, .sys_txt h5, .sys_layout h6, .sys_txt h6, .sys_layout p, .sys_txt p {
+    margin-top:0;
+}
+
+
+div[id*='sys_region_'] {
+    padding:0 !important;
+}
+
+blockquote {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid <% IFPROPERTY format='%s;' name='p.color'%>;
+    <% IFPROPERTY format='font-family: %s;' name='blockquote.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='blockquote.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='blockquote.color'%>
+    <% BACKGROUND_COLOR property='blockquote.background-color' %>
+    <% IFPROPERTY format='line-height: %s;' name='blockquote.line-height'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='blockquote.letter-spacing'%>
+    <% IFPROPERTY format='text-transform: %s;' name='blockquote.text-transform'%>
+    <% IFPROPERTY format='font-style: %s;' name='blockquote.font-style'%>
+}

@@ -1,0 +1,197 @@
+
+/* ------------------------------------------------------------------------------------------------------- */
+/*
+        regular css
+*/
+/* ------------------------------------------------------------------------------------------------------- */
+
+
+div.sys_yola_form{
+    padding:5px;
+}
+
+div.sys_yola_form form{
+    margin:0;padding:5px 10px;
+}
+
+div.sys_yola_form input,
+div.sys_yola_form textarea,
+div.sys_yola_form select {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+div.sys_yola_form input.text{
+    width:100%;
+    max-width: 250px;
+    padding:3px;
+}
+
+div.sys_yola_form input.radio{
+    margin-right:5px;
+}
+
+div.sys_yola_form input.checkbox{
+    margin-right:5px;
+}
+
+div.sys_yola_form input.submit{
+    margin:10px 0 0 0;
+}
+
+div.sys_yola_form select{
+    margin-left:5px;
+    margin-top:2px;
+}
+
+div.sys_yola_form textarea{
+    width:100%;
+    max-width: 300px;
+    height:100px;
+    padding:3px;
+    resize: none;
+}
+
+div.sys_yola_form h2{
+    margin:0;
+    padding:15px 0;
+}
+
+div.sys_yola_form div.yola-form-captcha{
+    padding:10px 0;
+}
+
+div.sys_yola_form p.label{
+    margin:0;
+    padding:10px 0 3px 0;
+}
+
+p.form-paragraph{
+    margin:15px 0 0 0;
+    padding:3px 0;
+}
+
+div.yola-form-message{
+    padding:5px;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------- */
+/*
+        mobile css
+*/
+/* ------------------------------------------------------------------------------------------------------- */
+
+
+div.sys_yola_form_mobile{
+    padding:0;
+}
+
+div.sys_yola_form_mobile form{
+    padding:0;
+    margin:0;
+}
+
+div.sys_yola_form_mobile textarea,
+div.sys_yola_form_mobile input.text{
+    width:90%;
+    padding:3px;
+}
+
+/* ------------------------------------------------------------------------------------------------------- */
+/*
+        recaptcha css
+*/
+/* ------------------------------------------------------------------------------------------------------- */
+.responsive_recaptcha *,
+.responsive_recaptcha *:after,
+.responsive_recaptcha *:before {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.responsive_recaptcha {
+  background-color: #DDDDDD;
+  border: 1px solid #AAAAAA;
+  border-radius: 0.5em;
+  position: relative;
+  overflow: auto;
+  max-width: 100%;
+  font: 0.75em/1em "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #ffffff;
+}
+.responsive_recaptcha img,
+.responsive_recaptcha .recaptcha_image {
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 0.5em;
+  background-clip: padding-box;
+}
+.responsive_recaptcha .solution {
+  margin-top: 0.5em;
+  padding: 0.5em;
+  padding-top: 1em;
+  border: 1px solid #AAAAAA;
+  border-radius: 0.5em;
+  background-clip: padding-box;
+  background-color: #FFFFFF;
+  color: #000000;
+  display: block;
+  max-width: 100%;
+}
+.responsive_recaptcha .solution input {
+  display: block;
+  width: 100%;
+  margin: 0.5em auto;
+  -webkit-appereance: none;
+  border: 1px solid #AAAAAA;
+  font: inherit;
+  font-size: 1em;
+}
+.responsive_recaptcha .solution input:focus {
+  border-color: #b71800;
+  outline: none;
+}
+.responsive_recaptcha .options {
+  margin-top: 0.5em;
+  border-radius: 0.5em;
+  background-clip: padding-box;
+}
+.responsive_recaptcha .options .link {
+  color: #444444;
+  text-decoration: none;
+  background-color: #FFFFFF;
+  display: block;
+  padding: 0.5em;
+  border-top: 1px solid #AAAAAA;
+  border-left: 1px solid #AAAAAA;
+  border-right: 1px solid #AAAAAA;
+}
+.responsive_recaptcha .options .link:first-child {
+  border-radius: 0.5em 0.5em 0 0;
+}
+.responsive_recaptcha .options .link:last-child {
+  border-radius: 0 0 0.5em 0.5em;
+  border-bottom: 1px solid #AAAAAA;
+}
+@media screen and (min-width: 480px) {
+  .responsive_recaptcha {
+    max-width: 300px;
+  }
+  .responsive_recaptcha .solution {
+    float: left;
+    width: 66%;
+    margin-top: 0.5em;
+    padding: 1em;
+  }
+  .responsive_recaptcha .solution input {
+    margin: 0.35em auto;
+    width: 100%;
+  }
+  .responsive_recaptcha .options {
+    float: right;
+    width: 34%;
+    padding-left: 0.5em;
+  }
+}

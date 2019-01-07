@@ -1,0 +1,51 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2010.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: site builder\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: Portuguese "
+"<http://weblate.yola.net/projects/sitecomponents/googlemapv2/pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "Align"
+msgstr "Alinhar"
+
+msgid "Auto Width"
+msgstr "Largura automática"
+
+msgid ""
+"Drag and drop this widget to display a Google map on your site. The maps are "
+"provided by Google."
+msgstr ""
+"Clique, arraste e solte este widget para exibir um mapa do Google no seu "
+"site. Os mapas são fornecidos pelo Google. "
+
+msgid "Google Map"
+msgstr "Google Maps"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Map Style"
+msgstr "Estilo do Mapa"
+
+msgid "Padding"
+msgstr "Preenchimento"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Width"
+msgstr "Largura"

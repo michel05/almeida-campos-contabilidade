@@ -1,0 +1,143 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: Norwegian Bokmål "
+"<http://weblate.yola.net/projects/sitecomponents/form/nb/>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Legg til</strong> nytt felt</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Navn</strong>, <strong>e-post</strong>, <strong>Telefon</strong>, "
+"<strong></strong> og en <strong>Melding</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "En tom skjemamal der du kan legge til alle felt du ønsker."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Å legge til et kontaktskjema på nettstedet ditt gjør det enkelt for dine "
+"besøkende å få tak i deg. Skjemaene inkluderer automatisk en CAPTCHA, som "
+"hjelper med å forhindre søppel-epost."
+
+msgid "Blank Form"
+msgstr "Tomt skjema"
+
+msgid "Button label:"
+msgstr "Etikett for knappen:"
+
+msgid "Checkboxes"
+msgstr "Avmerkingsbokser"
+
+msgid "Choose from a list"
+msgstr "Velg fra en liste"
+
+msgid "Contact Us"
+msgstr "Kontakt oss"
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Email form submissions to:"
+msgstr "E-skjemainnsendinger til:"
+
+msgid "Enter a form completion message:"
+msgstr "Angi en melding for fullført skjema:"
+
+msgid "Enter the numbers you hear:"
+msgstr "Tast inn nummerene du hører:"
+
+msgid "Enter the words above:"
+msgstr "Tast inn ordene over:"
+
+msgid "Form"
+msgstr "Skjema"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Posting av skjema mislyktes. Vennligst prøv igjen."
+
+msgid "Get an audio CAPTCHA"
+msgstr "Skaff en lyd-CAPTCHA"
+
+msgid "Get an image CAPTCHA"
+msgstr "Skaff en bilde-CAPTCHA"
+
+msgid "Get another CAPTCHA"
+msgstr "Skaff en annen CAPTCHA"
+
+msgid "Help"
+msgstr "Hjelp"
+
+msgid "Incorrect please try again"
+msgstr "Posting av skjema mislyktes. Vennligst prøv igjen."
+
+msgid "Multi Line Text"
+msgstr "Flere tekstlinjer"
+
+msgid "Multiple Choice"
+msgstr "Flere valg"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to the email address you gave Yola. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Fjern felter ved å trykke på <span %s>rød X</span>, eller legg til et nytt "
+"felt ved å trykke på \"<strong>Legg til nytt felt</strong>\"-knappen. "
+"Innsendte skjemaer blir sendt til e-postadressen du oppga til Yola. Klikk på "
+"\"<strong>Innstillinger</strong>\" for å endre denne adressen."
+
+msgid "Select a starting form type:"
+msgstr "Velg type startskjema:"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Single Line Text"
+msgstr "Enkel tekstlinje"
+
+msgid "Spam Protector (Captcha)"
+msgstr "Spambeskyttelse (Captcha)"
+
+msgid "Starting Form Fields:"
+msgstr "Felter for startskjema:"
+
+msgid "Submit"
+msgstr "Send inn"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Dette er meldingen som besøkende vil se etter<br/> vellykket vellykket "
+"innsending av skjemaet."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"For å legge til et skjema, velg en \"<strong>Kontakt oss</strong>\"- eller "
+"\"<strong>Tomt skjema</strong>\"-mal."

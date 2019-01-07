@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+
+msgid "Use this widget to add a horizontal line to your page and neatly separate sections without having to use any HTML code."
+msgstr ""
+
+msgid "Horizontal Line"
+msgstr ""
